@@ -1,0 +1,13 @@
+Meme textures in this update:
+
+meme_doge.webp — “Doge meme.png”, based on Shiba Inu Taiki by Roberto Vasarri.
+Source: https://commons.wikimedia.org/wiki/File:Doge_meme.png
+License selected: CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/
+Changes: resized, converted to WebP; game posters add Spanish captions. These image adaptations remain CC BY-SA 4.0.
+
+meme_grumpy.webp — “Grumpy Cat by Gage Skidmore.jpg”, Gage Skidmore, 2014.
+Source: https://commons.wikimedia.org/wiki/File:Grumpy_Cat_by_Gage_Skidmore.jpg
+License: CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/
+Changes: resized, converted to WebP; game posters add Spanish captions. These image adaptations remain CC BY-SA 3.0.
+
+The licenses above apply to these image adaptations, not unrelated original game code or other assets. Attribution is also available inside the game's Credits panel.
